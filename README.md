@@ -1,6 +1,6 @@
-# Echo website
+# Saynary website
 
-Public static product, support, privacy and usage pages for Echo / Echotm.
+Public static product, support, privacy and usage pages for Saynary.
 
 Custom domain: https://echo.tendazl.com
 Public support: tendazlkj@gmail.com
